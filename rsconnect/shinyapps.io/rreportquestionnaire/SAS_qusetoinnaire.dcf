@@ -1,0 +1,13 @@
+name: SAS_qusetoinnaire
+title: SAS_qusetoinnaire
+username:
+account: rreportquestionnaire
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 6272851
+bundleId: 5893534
+url: https://rreportquestionnaire.shinyapps.io/SAS_qusetoinnaire/
+when: 1652242415.46183
+lastSyncTime: 1652242415.46184
+asMultiple: FALSE
+asStatic: FALSE
